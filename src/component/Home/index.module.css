@@ -1,0 +1,78 @@
+/* Style */
+.homeContainer {
+  padding: 15px;
+  padding-top: 50px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  background-color: #fff;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 150px;
+}
+
+.headerContainer {
+  background-color: #eee;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.headerContainer h1{
+  font-weight: normal;
+  font-size: 1.3em;
+  color: #e53e3e;
+}
+
+.headerContainer p {
+  margin-bottom: 0px;
+}
+
+/* Form */
+.formContainer {
+  margin-top: 40px;
+  text-align: left;
+}
+
+.form-check {
+  width: 100px !important;
+}
+
+.issueContainer {
+  margin-bottom: 10px;
+}
+
+.issueCheckboxContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.issueCheckboxContainer div {
+  width: 150px;
+  margin-bottom: 7px;
+}
+
+/* Media Query */
+
+/* Small to 1000px */
+@media only screen and (max-width: 1000px) {
+}
+
+/* <800px */
+@media only screen and (max-width: 800px) {
+}
+
+/* Md breakpoint */
+@media only screen and (max-width: 767px) {
+}
+
+/* Medium Screen Device*/
+@media only screen and (max-width: 600px) {
+}
+
+/* Small Screen Device */
+@media only screen and (max-width: 350px) {
+}
