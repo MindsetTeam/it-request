@@ -19,7 +19,7 @@
   padding: 10px;
 }
 
-.headerContainer h1{
+.headerContainer h1 {
   font-weight: normal;
   font-size: 1.3em;
   color: #e53e3e;
@@ -47,11 +47,10 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-between;
 }
 
 .issueCheckboxContainer div {
-  width: 150px;
+  width: 160px;
   margin-bottom: 7px;
 }
 
